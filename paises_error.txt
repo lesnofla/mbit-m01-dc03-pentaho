@@ -1,0 +1,5 @@
+id_aeropuerto;nombre_aeropuerto;ciudad_aeropuerto;pais_aeropuerto;cod_iata_faa;cod_icao;cod_pais
+2174;Jerusalem;Jerusalem;West Bank;Z99;OJJR;Z99       
+2253;Midway Atoll;Midway;Midway Islands;MDY;PMDY;Z99       
+4382;Johnston Atoll;Johnston Island;Johnston Atoll;JON;PJON;Z99       
+-1;Desconocido;Desconocido;Desconocido;;;Z99       
